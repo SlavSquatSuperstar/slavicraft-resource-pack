@@ -1,9 +1,0 @@
-SlaviCraft Public Resources Pack
-1.16 Version 1
-
-To use on a server: https://drive.google.com/file/d/1Y7agV-_RrP9AfeHhXIOEszsfZtvr4IxB/view?usp=sharing
-
-Play with the Slavic soundtrack: https://www.dropbox.com/s/jcewekg0521b8m0/SlaviCraft%20Soundtrack.zip?dl=0
-
-Credits
-- Panorama Map: Red Square, Moscow 2.0 (1:1) by sociialist, https://www.planetminecraft.com/project/red-square-moscow-2-0-1-1/
