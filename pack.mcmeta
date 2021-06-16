@@ -1,6 +1,13 @@
 {
   "pack": {
-    "pack_format": 6,
+    "pack_format": 7,
     "description": "§6Play §4with §6the §4complete §6Slavic §4experience! §6☭"
+  },
+  "language": {
+    "us_sr": {
+      "name": "Universal Speech",
+      "region": "Slavic Republic",
+      "bidirectional": false
+    }
   }
 }

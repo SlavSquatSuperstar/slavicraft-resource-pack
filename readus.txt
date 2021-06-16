@@ -1,5 +1,5 @@
 SlaviCraft Public Resources Pack
-1.16 Version 1
+1.17 Version 1
 
 To use on a server: https://drive.google.com/file/d/1Y7agV-_RrP9AfeHhXIOEszsfZtvr4IxB/view?usp=sharing
 
